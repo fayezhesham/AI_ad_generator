@@ -1,0 +1,12 @@
+fastapi==0.115.11
+langchain_community==0.3.19
+langchain_core==0.3.43
+langchain_groq==0.2.5
+Pillow
+pydantic==2.10.6
+python-dotenv==1.0.1
+requests==2.32.3
+streamlit==1.35.0
+uvicorn==0.22.0
+beautifulsoup4
+groq
