@@ -45,8 +45,8 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>
-   cd my_ad_generator
+   git clone https://github.com/fayezhesham/AI_ad_generator.git
+   cd ad_generator
 2. **Create a `.env` File in the Root Directory:**
 
    ```bash
